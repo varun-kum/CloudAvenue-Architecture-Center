@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T13:20:37.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="MAxR6iFs3gz40z1zKT8f" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T13:21:08.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="l2MO-c95eHh1VAVtv210" version="14.7.7" type="github">
   <diagram id="BNrBwIR3xgm_0IoBfb6E" name="Page-1">
     <mxGraphModel dx="878" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S70ZLRrRe1kisF5pMaMF-4" value="Calyx Azure &lt;br&gt;Active Directory" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=right;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;labelPosition=left;" vertex="1" parent="1">
+        <mxCell id="S70ZLRrRe1kisF5pMaMF-4" value="&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;Calyx Azure &lt;br&gt;Active Directory&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=right;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;labelPosition=left;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S70ZLRrRe1kisF5pMaMF-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -87,7 +87,7 @@
           <mxGeometry x="414" y="120" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S70ZLRrRe1kisF5pMaMF-42" value="Presents authentication &lt;br&gt;and claim Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="422" y="180" width="150" height="30" as="geometry" />
+          <mxGeometry x="421" y="180" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S70ZLRrRe1kisF5pMaMF-43" value="Trust&lt;br&gt;Add B2B users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontColor=#004C99;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="290" y="-70" width="100" height="30" as="geometry" />
