@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T14:45:18.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="XvG8Uj-V2V-TxuXCvGDi" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-19T14:54:35.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="v9nAnBhNrZ3Uap4ea5fi" version="14.8.0" type="github" pages="4">
   <diagram id="8maB1NLESnqbv6OFM8SC" name="Page-1">
     <mxGraphModel dx="2081" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -744,7 +744,7 @@
           <mxGeometry width="40" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="CaQmW6WIHHwtAAnxKD2b-32" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-249.003130500142" y="-430.0026255970267" width="237.428959312095" height="1077.5850214324169" as="geometry" />
+          <mxGeometry x="-249.003130500142" y="-430.0026255970267" width="249.00313050014196" height="1081.0026255970265" as="geometry" />
         </mxCell>
         <mxCell id="r1SILhytBlpwaAuAry_p-1" value="AWS IOT Core" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
           <mxGeometry x="5.533130500141965" y="134.58262559702666" width="230" height="41" as="geometry" />
@@ -770,13 +770,13 @@
         <mxCell id="r1SILhytBlpwaAuAry_p-8" value="AWS Kinesis Firehose" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
           <mxGeometry x="9.033130500141965" y="480.08262559702666" width="230" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="r1SILhytBlpwaAuAry_p-9" value="AWS S3" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
+        <mxCell id="r1SILhytBlpwaAuAry_p-9" value="AWS Event Bridge" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
           <mxGeometry x="5.533130500141965" y="532.0826255970267" width="230" height="41" as="geometry" />
         </mxCell>
         <mxCell id="r1SILhytBlpwaAuAry_p-10" value="Amazon Timestream" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
           <mxGeometry x="7.033130500141965" y="581.5826255970267" width="230" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="r1SILhytBlpwaAuAry_p-11" value="AWS DunmoDB" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
+        <mxCell id="r1SILhytBlpwaAuAry_p-11" value="AWS DynmoDB" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
           <mxGeometry x="6.033130500141965" y="632.5826255970267" width="230" height="41" as="geometry" />
         </mxCell>
         <mxCell id="r1SILhytBlpwaAuAry_p-12" value="Amazon Cloudfront" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
@@ -802,6 +802,9 @@
         </mxCell>
         <mxCell id="gQHXrghHTJihqK7WM1_3-212" value="Elastic Load Balancer" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" parent="CaQmW6WIHHwtAAnxKD2b-32" vertex="1">
           <mxGeometry x="9.033130500141965" y="991.5826255970267" width="230" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2X23UITRcTlJ42guh2qM-9" value="Amazon RDS" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" vertex="1" parent="CaQmW6WIHHwtAAnxKD2b-32">
+          <mxGeometry x="10.003130500141964" y="1043.0026255970265" width="230" height="41" as="geometry" />
         </mxCell>
         <mxCell id="w1TklQB0tUVly_FjjUbZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CaQmW6WIHHwtAAnxKD2b-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -868,6 +871,9 @@
           <mxGeometry x="-0.0049" y="-8" relative="1" as="geometry">
             <mxPoint x="24" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2X23UITRcTlJ42guh2qM-10" value="Elastic Cache" style="shape=offPageConnector;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#FF9933;fontSize=16;fontColor=#FFFFFF;align=center;rotation=336;size=0.04189285608846178;textDirection=ltr;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-242.00000000000003" y="665.9999999999998" width="230" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
