@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T10:00:07.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="tzpZ7nBmbPKZnnVyr_tJ" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-20T10:00:59.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="sesa9_1teqAD6SyTmVnD" version="14.8.0" type="github" pages="5">
   <diagram id="8maB1NLESnqbv6OFM8SC" name="Architecture">
     <mxGraphModel dx="2081" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1835,14 +1835,17 @@
         <mxCell id="zo4ZV6d9hLWoT_vMKQhd-42" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Amazon Document DB Global Tables (Geo replication)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#3333FF;fillColor=none;fontSize=10;fontColor=#000000;align=left;verticalAlign=top;spacingLeft=25;strokeWidth=2;" vertex="1" parent="zo4ZV6d9hLWoT_vMKQhd-41">
           <mxGeometry width="262.5" height="209.75" as="geometry" />
         </mxCell>
-        <mxCell id="GumcAVmkaIgIXQMKKzoW-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="zo4ZV6d9hLWoT_vMKQhd-41" source="GumcAVmkaIgIXQMKKzoW-0" target="GumcAVmkaIgIXQMKKzoW-4">
+        <mxCell id="GumcAVmkaIgIXQMKKzoW-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;strokeColor=#0000CC;" edge="1" parent="zo4ZV6d9hLWoT_vMKQhd-41" source="GumcAVmkaIgIXQMKKzoW-0" target="GumcAVmkaIgIXQMKKzoW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GumcAVmkaIgIXQMKKzoW-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.72;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="zo4ZV6d9hLWoT_vMKQhd-41" source="GumcAVmkaIgIXQMKKzoW-0" target="GumcAVmkaIgIXQMKKzoW-5">
+        <mxCell id="GumcAVmkaIgIXQMKKzoW-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.72;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;strokeColor=#0000CC;" edge="1" parent="zo4ZV6d9hLWoT_vMKQhd-41" source="GumcAVmkaIgIXQMKKzoW-0" target="GumcAVmkaIgIXQMKKzoW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GumcAVmkaIgIXQMKKzoW-0" value="" style="html=1;dashed=0;whitespace=wrap;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fillColor=none;strokeColor=#000099;" vertex="1" parent="zo4ZV6d9hLWoT_vMKQhd-41">
           <mxGeometry x="100" y="49.75" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GumcAVmkaIgIXQMKKzoW-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;strokeColor=#0000CC;" edge="1" parent="zo4ZV6d9hLWoT_vMKQhd-41" source="GumcAVmkaIgIXQMKKzoW-4" target="GumcAVmkaIgIXQMKKzoW-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GumcAVmkaIgIXQMKKzoW-4" value="Region 1" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;fillColor=none;strokeColor=#000099;" vertex="1" parent="zo4ZV6d9hLWoT_vMKQhd-41">
           <mxGeometry x="40" y="129.75" width="50.25" height="50.25" as="geometry" />
