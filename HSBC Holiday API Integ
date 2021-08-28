@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T17:09:39.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="u4Rbwh6LSk-f0LCLKNa5" version="14.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-28T17:13:46.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="fmR6gf0Ju6FYdUkPhlAs" version="14.9.9" type="github" pages="3">
   <diagram id="BlBW5J_6w1qxnRwAPmuX" name="Page-1">
     <mxGraphModel dx="1214" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -939,6 +939,55 @@
         </mxCell>
         <mxCell id="wN-kJsBKrJw_Qm3iwvfY-24" value="&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 14px&quot;&gt;&lt;b&gt;Threat Protection&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 12px&quot;&gt;Azure Defender&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;align=center;" vertex="1" parent="niu2h48H9XJaEGFApPGe-1">
           <mxGeometry x="1100" y="-45.2" width="134" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a6g8zHp-Q6uNyQIvTIJc" name="Page-3">
+    <mxGraphModel dx="1032" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-0" />
+        <mxCell id="hxLnlXT49gCXF4siqo_J-1" parent="hxLnlXT49gCXF4siqo_J-0" />
+        <mxCell id="hxLnlXT49gCXF4siqo_J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="hxLnlXT49gCXF4siqo_J-1" source="hxLnlXT49gCXF4siqo_J-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-2" value="CRM/API Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxLnlXT49gCXF4siqo_J-1">
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="hxLnlXT49gCXF4siqo_J-1" source="hxLnlXT49gCXF4siqo_J-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-3" value="Holiday API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxLnlXT49gCXF4siqo_J-1">
+          <mxGeometry x="450" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="hxLnlXT49gCXF4siqo_J-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="targetPoint" />
+            <mxPoint x="240" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-12" value="Receive Result (.json)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="hxLnlXT49gCXF4siqo_J-8">
+          <mxGeometry x="-0.1495" relative="1" as="geometry">
+            <mxPoint x="15" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="hxLnlXT49gCXF4siqo_J-1">
+          <mxGeometry x="504" y="279" width="12" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="hxLnlXT49gCXF4siqo_J-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="280" as="targetPoint" />
+            <mxPoint x="240" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hxLnlXT49gCXF4siqo_J-10" value="Request Holiday Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="hxLnlXT49gCXF4siqo_J-6">
+          <mxGeometry x="-0.1717" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
