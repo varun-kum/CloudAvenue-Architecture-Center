@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T17:08:58.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="W5uoFl3mwWJIkGLuJdfE" version="14.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-28T17:09:15.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="M-qQr0nx97UgFEZNqiiy" version="14.9.9" type="github" pages="2">
   <diagram id="BlBW5J_6w1qxnRwAPmuX" name="Page-1">
     <mxGraphModel dx="860" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -845,10 +845,10 @@
           <mxGeometry x="1092.75" y="412" width="189" height="40" as="geometry" />
         </mxCell>
         <mxCell id="niu2h48H9XJaEGFApPGe-125" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://stefanos.cloud/blog/wp-content/uploads/2020/10/Azure.png;" vertex="1" parent="niu2h48H9XJaEGFApPGe-1">
-          <mxGeometry x="1210" y="460" width="151.06" height="79.31" as="geometry" />
+          <mxGeometry x="1258.94" y="452" width="151.06" height="79.31" as="geometry" />
         </mxCell>
         <mxCell id="niu2h48H9XJaEGFApPGe-126" value="&lt;font style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot; color=&quot;#000099&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;Azure&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;align=center;" vertex="1" parent="niu2h48H9XJaEGFApPGe-1">
-          <mxGeometry x="1192.6100000000001" y="479" width="63.39" height="40" as="geometry" />
+          <mxGeometry x="1231.6100000000001" y="479" width="63.39" height="40" as="geometry" />
         </mxCell>
         <mxCell id="niu2h48H9XJaEGFApPGe-127" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;CRM&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=25;align=left;fontColor=#FFFFFF;" vertex="1" parent="niu2h48H9XJaEGFApPGe-1">
           <mxGeometry x="911" y="-31.2" width="60" height="40" as="geometry" />
