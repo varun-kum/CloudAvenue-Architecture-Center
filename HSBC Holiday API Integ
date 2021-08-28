@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T17:25:08.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="LSk9yrG2G-4RAJcau3Bc" version="14.9.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-28T17:26:18.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="tb2l0RID1YgXbuwwXKAK" version="14.9.9" type="github" pages="4">
   <diagram id="BlBW5J_6w1qxnRwAPmuX" name="Page-1">
     <mxGraphModel dx="1214" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1107,6 +1107,9 @@
           <mxGeometry x="-0.1366" y="-1" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QFvwEg8w8HZbHjdYcUME-0" value="Azure Defender" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rQUoO5uh5P1G5Lz8wYLJ-1">
+          <mxGeometry y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
