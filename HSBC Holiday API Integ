@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T16:52:22.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="PGeYzutI5hwUSZqV0pMk" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T16:53:02.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="1Pa5M7q7QDIQ0C0cAwp3" version="14.9.9" type="github">
   <diagram id="BlBW5J_6w1qxnRwAPmuX" name="Page-1">
-    <mxGraphModel dx="1214" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
           <mxGeometry x="949" y="360" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-40" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Blob_Block.svg;fontColor=#FFFFFF;strokeColor=#0A0961;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="185.71" width="57.86" height="46.29" as="geometry" />
+          <mxGeometry x="1089" y="163.85000000000002" width="57.86" height="46.29" as="geometry" />
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-42" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 14px&quot;&gt;Citizen Booking Website&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 12px&quot;&gt;Azure Function (see Azure HLD)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="-76" width="210" height="40" as="geometry" />
@@ -302,7 +302,7 @@
           <mxGeometry x="1190" y="-65.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-62" value="&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 14px&quot;&gt;&lt;b&gt;D365 Attachment Store&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 12px&quot;&gt;Blob (Optional if need arises)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1060.75" y="231" width="169.25" height="40" as="geometry" />
+          <mxGeometry x="1043.28" y="212" width="169.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-63" value="&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 14px&quot;&gt;&lt;b&gt;Offloaded OLTP/OLAP Store&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 12px&quot;&gt;Azure Data Lake OotB CDS Synch&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="869.81" y="410" width="208.37" height="40" as="geometry" />
@@ -324,9 +324,6 @@
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#FFFFFF;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="wbMdIehkp7ckQhgc-f2j-37" target="wbMdIehkp7ckQhgc-f2j-67">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wbMdIehkp7ckQhgc-f2j-66" value="&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 15px&quot;&gt;&lt;b&gt;Query/Incident Mgt.&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-size: 13px&quot;&gt;D365 Service&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="89.29999999999998" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-81" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="949" y="200" width="50" height="60" as="geometry" />
@@ -425,6 +422,12 @@
         </mxCell>
         <mxCell id="wbMdIehkp7ckQhgc-f2j-112" value="&lt;font color=&quot;#000000&quot; face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Dynamics Portal Integration&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;D365 Web API&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#FFFFFF;align=center;opacity=0;fillColor=#B1DDF0;" vertex="1" parent="1">
           <mxGeometry x="913.6999999999999" y="-85.2" width="199.07" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wbMdIehkp7ckQhgc-f2j-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=25;fontColor=#660033;endArrow=none;endFill=0;strokeColor=#006EAF;strokeWidth=1;exitX=0.164;exitY=0.062;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wbMdIehkp7ckQhgc-f2j-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1019.75" y="185.71" as="sourcePoint" />
+            <mxPoint x="1054.75" y="85.52750000000012" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
