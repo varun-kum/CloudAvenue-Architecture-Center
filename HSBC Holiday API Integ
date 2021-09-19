@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:45:38.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Y7HHXRaCymv_sQSJlaya" version="15.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-09-19T17:01:51.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OaftF1K5zYkM8SWrdQBH" version="15.2.7" type="github" pages="13">
   <diagram id="BlBW5J_6w1qxnRwAPmuX" name="Approach 1">
     <mxGraphModel dx="1032" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2407,6 +2407,47 @@
         </mxCell>
         <mxCell id="G7ILYPW1-Xst-Gt_M0xH-26" value="Subscriptions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/general/Subscriptions.svg;fontColor=#000099;fontStyle=1" vertex="1" parent="G7ILYPW1-Xst-Gt_M0xH-1">
           <mxGeometry x="327.51" y="100" width="30.98" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p4c6EeOGbsi0lBH0wENd" name="Flow Chart">
+    <mxGraphModel dx="1032" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-0" />
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-1" parent="ZZlOVf0w8r4N7bXJv1yk-0" />
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-7" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ZZlOVf0w8r4N7bXJv1yk-1" source="ZZlOVf0w8r4N7bXJv1yk-3" target="ZZlOVf0w8r4N7bXJv1yk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-3" value="New&lt;br&gt;Subscription" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ZZlOVf0w8r4N7bXJv1yk-1">
+          <mxGeometry x="125" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ZZlOVf0w8r4N7bXJv1yk-1" source="ZZlOVf0w8r4N7bXJv1yk-4" target="ZZlOVf0w8r4N7bXJv1yk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-4" value="Existing Subscription" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ZZlOVf0w8r4N7bXJv1yk-1">
+          <mxGeometry x="125" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ZZlOVf0w8r4N7bXJv1yk-1" source="ZZlOVf0w8r4N7bXJv1yk-6" target="ZZlOVf0w8r4N7bXJv1yk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-6" value="Create into appropriate Landing zone Management Group" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ZZlOVf0w8r4N7bXJv1yk-1">
+          <mxGeometry x="500" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ZZlOVf0w8r4N7bXJv1yk-1" source="ZZlOVf0w8r4N7bXJv1yk-8" target="ZZlOVf0w8r4N7bXJv1yk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-8" value="Move to Staging&amp;nbsp;&lt;br&gt;Management Group" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ZZlOVf0w8r4N7bXJv1yk-1">
+          <mxGeometry x="300" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZZlOVf0w8r4N7bXJv1yk-1" source="ZZlOVf0w8r4N7bXJv1yk-10" target="ZZlOVf0w8r4N7bXJv1yk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-10" value="Assign Subscription Tags to all resources" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ZZlOVf0w8r4N7bXJv1yk-1">
+          <mxGeometry x="520" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZlOVf0w8r4N7bXJv1yk-12" value="" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ZZlOVf0w8r4N7bXJv1yk-1">
+          <mxGeometry x="760" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
